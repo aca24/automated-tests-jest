@@ -1,12 +1,13 @@
 # Jest automated tests
 
-## App to be tested - localhost:3000/user
+## App to be tested - http://localhost:3000
 
-- In this project I wrote API automated test for REST API methods GET, POST, PATCH and DELETE.
+- In this project I wrote API automated tests for REST API methods GET, POST, PATCH and DELETE.
 ## Libraries
 
 - [Jest](https://jestjs.io/)
 - [SuperTest](https://www.npmjs.com/package/supertest)
+- [Express](https://expressjs.com/)
 
 ## Requirements
 
@@ -30,9 +31,9 @@
 ## How to run
 
 Clone the repo with Git command 
-`git clone https://github.com/aca24/api-automated-tests-jest.git`
+`git clone https://github.com/aca24/automated-tests-jest`
 
-Install packages
+Install required packages
 `npm i`
 
 Start Express Server
