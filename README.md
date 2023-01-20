@@ -31,7 +31,7 @@
 ## How to run
 
 Clone the repo with Git command 
-`git clone https://github.com/aca24/automated-tests-jest`
+`git clone` [https://github.com/aca24/automated-tests-jest](https://github.com/aca24/automated-tests-jest)
 
 Install required packages
 `npm i`
